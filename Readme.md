@@ -11,7 +11,7 @@ Padavala satya santosh kumar-19pa1a05c9***
 ## Game
 ![alt text](https://github.com/santosh-kumar8367/mlgame/blob/master/game.png)
 ## Repo Link for game
-***https://mlgame.padavala.repl.co/***
+***https://mlgame.rohithsanagti.repl.co/***
 
 ## Youtube Link
 
