@@ -2,7 +2,7 @@
 ***This is a Game using ML model developed from Teachable Machine***
 
 ## Team Members
-***Sangati Rohith Kumar-19pa1a05g4
+***Sangati Rohith Kumar-19pa1a05g4<br>
 Padavala satya santosh kumar-19pa1a05c9***
 
 ## About Game
@@ -10,7 +10,7 @@ Padavala satya santosh kumar-19pa1a05c9***
 ## Game
 ![alt text](https://github.com/santosh-kumar8367/mlgame/blob/master/game.png)
 ## Repo Link for game
-https://mlgame.padavala.repl.co/
+***https://mlgame.padavala.repl.co/***
 
 ###### References
 https://github.com/Beat0154/easiest-game-ever
